@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1586784578442' stop='1586784579654'>
+    <name>checking envt url config</name>
+    <title>checking envt url config</title>
+    <test-cases>
+        <test-case start='1586784578443' status='passed' stop='1586784579653'>
+            <name>check page url</name>
+            <title>check page url</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='Chrome-19.4.0'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
