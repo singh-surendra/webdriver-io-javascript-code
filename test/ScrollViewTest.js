@@ -13,7 +13,7 @@
 //         browser.pause(5000);
 //     })
 
-//     it.skip("it should scroll to forgot password link, move and click", function () {
+//     it.skip("it should scroll to forgot password link, move & click", function () {
 //         browser.url("https://classic.freecrm.com/");
 //         crmPage.forgotPasswordLink.scrollIntoView();
 //         crmPage.moveToElement(crmPage.forgotPasswordLink);
